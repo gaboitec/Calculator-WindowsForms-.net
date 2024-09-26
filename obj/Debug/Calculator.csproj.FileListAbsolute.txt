@@ -1,0 +1,10 @@
+E:\Yefry\Source\repos\Calculator\bin\Debug\Calculator.exe.config
+E:\Yefry\Source\repos\Calculator\bin\Debug\Calculator.exe
+E:\Yefry\Source\repos\Calculator\bin\Debug\Calculator.pdb
+E:\Yefry\Source\repos\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Yefry\Source\repos\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Yefry\Source\repos\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Yefry\Source\repos\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Yefry\Source\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Yefry\Source\repos\Calculator\obj\Debug\Calculator.exe
+E:\Yefry\Source\repos\Calculator\obj\Debug\Calculator.pdb
